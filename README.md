@@ -2,8 +2,8 @@
 
 ### redux has 3 parts 
 
-## 1.store
-## 2.reducer
+### 1.store
+### 2.reducer
 ### 3.action 
 
 
